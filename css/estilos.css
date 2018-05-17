@@ -142,8 +142,9 @@ hr{
   background: white !important;
   right: 10% !important;
   width: 336px !important;
-  height: 600px;
+  height: 500px;
   padding: 0px !important;
+  
 }
 .publi-noticia{
     right: 145px !important;
@@ -153,6 +154,8 @@ hr{
 	background:white;
 	height:90px;
   margin-bottom: 20px;
+  padding:0px !important;
+  text-align:center;
 }
 .imagen{
   height: 180px;
@@ -182,7 +185,7 @@ hr{
   background-color: #222;
   text-align: center;
   position: relative;
-  bottom: -110px;
+  bottom: -20px;
 }
 .footer p{
   color: #c9aa71;
