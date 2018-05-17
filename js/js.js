@@ -59,3 +59,29 @@ function adjuntarNoticia(data){
 		}
 	});
  }
+
+var cont=1;
+var temporizador = setInterval(myTimer, 2000);
+var c=[];
+c[0]="img/publi1.jpg";
+c[1]="img/publi2.jpg";
+c[2]="img/publi3.jpg";
+
+function myTimer(){
+	cont++;
+	$(".publi img").attr('src',c[cont-1]);
+	if(cont==3) cont=0;
+};
+
+var cont1=1;
+var temporizador1 = setInterval(myTimer1, 2000);
+var d=[];
+d[0]="img/publim1.jpg";
+d[1]="img/publim2.jpg";
+d[2]="img/publim3.jpg";
+
+function myTimer1(){
+	cont1++;
+	$(".publimovil img").attr('src',d[cont1-1]);
+	if(cont1==3) cont1=0;
+};
