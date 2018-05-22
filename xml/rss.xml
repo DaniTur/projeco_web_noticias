@@ -2,18 +2,18 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>NoticiasLoL</title>
+  <link>https://rawgit.com/DaniTur/projeco_web_noticias/master/news.html</link>
+  <description>Noticias de league of legends actualizadas</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>Notas de la versión 8.8</title>
+    <link>https://rawgit.com/DaniTur/projeco_web_noticias/master/new1.html</link>
+    <description>Debilitaciones a Irelia y cambios importantes a Ahri y a LeBlanc.</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Visitad ya el emporio</title>
+    <link>https://rawgit.com/DaniTur/projeco_web_noticias/master/new2.html</link>
+    <description>Conseguid chromas, nuevos minis misteriosos y mucho más por esencias azules hasta el 01/05/18.</description>
   </item>
 </channel>
 
