@@ -157,6 +157,9 @@ hr{
   padding:0px !important;
   text-align:center;
 }
+.publimovil img{
+   width:100%;
+}
 .imagen{
   height: 180px;
 }
